@@ -1,0 +1,4 @@
+mpi4py
+networkx
+matplotlib
+customtkinter

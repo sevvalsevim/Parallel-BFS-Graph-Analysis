@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.env/
+
+# Dataset
+roadNet-PA.txt
+
+# IDEs
+.vscode/
+.idea/
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
