@@ -211,33 +211,21 @@ The graphical interface is built using **CustomTkinter**, providing a modern and
 
 ## 📸 Screenshots
 
-### Performance Analysis
+### 📈 Performance Analysis
 
-> Replace with your graph image.
-
-```markdown
 ![Performance Analysis](docs/performance-analysis.png)
-```
 
 ---
 
-### Complexity Analysis
+### 📊 Complexity Analysis
 
-> Replace with your graph image.
-
-```markdown
 ![Complexity Analysis](docs/complexity-analysis.png)
-```
 
 ---
 
-### GUI Interface
+### 🖥️ GUI Interface
 
-> Replace with a screenshot of the graphical interface.
-
-```markdown
-![GUI](docs/gui.png)
-```
+![GUI Interface](docs/gui.png)
 
 ---
 
